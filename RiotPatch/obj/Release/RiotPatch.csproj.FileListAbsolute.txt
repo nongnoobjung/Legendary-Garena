@@ -1,0 +1,12 @@
+D:\private project\LegendaryClient-master\RiotPatch\bin\Release\RiotPatch.dll
+D:\private project\LegendaryClient-master\RiotPatch\bin\Release\RiotPatch.pdb
+D:\private project\LegendaryClient-master\RiotPatch\obj\Release\RiotPatch.dll
+D:\private project\LegendaryClient-master\RiotPatch\obj\Release\RiotPatch.pdb
+D:\private project\AncientClient\RiotPatch\bin\Release\RiotPatch.dll
+D:\private project\AncientClient\RiotPatch\bin\Release\RiotPatch.pdb
+D:\private project\AncientClient\RiotPatch\obj\Release\RiotPatch.dll
+D:\private project\AncientClient\RiotPatch\obj\Release\RiotPatch.pdb
+D:\private project\LegendaryClient\RiotPatch\bin\Release\RiotPatch.dll
+D:\private project\LegendaryClient\RiotPatch\bin\Release\RiotPatch.pdb
+D:\private project\LegendaryClient\RiotPatch\obj\Release\RiotPatch.dll
+D:\private project\LegendaryClient\RiotPatch\obj\Release\RiotPatch.pdb

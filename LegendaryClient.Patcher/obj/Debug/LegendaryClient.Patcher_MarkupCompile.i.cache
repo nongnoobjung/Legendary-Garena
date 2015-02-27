@@ -1,0 +1,20 @@
+﻿LegendaryClient.Patcher
+
+
+winexe
+C#
+.cs
+D:\private project\LegendaryClient\LegendaryClient.Patcher\obj\Debug\
+LegendaryClient.Patcher
+none
+false
+DEBUG;TRACE
+D:\private project\LegendaryClient\LegendaryClient.Patcher\App.xaml
+4-1628939093
+
+18245040503
+12433705034
+MainWindow.xaml;Pages\PatcherPage.xaml;Pages\PatcherSettingsPage.xaml;PatcherElements\FreeWeekChampion.xaml;
+
+False
+

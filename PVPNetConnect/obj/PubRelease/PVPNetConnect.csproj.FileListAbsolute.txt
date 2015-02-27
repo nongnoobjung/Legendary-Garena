@@ -1,0 +1,2 @@
+D:\private project\LegendaryClient-master\PVPNetConnect\bin\PubRelease\PVPNetConnect.dll
+D:\private project\LegendaryClient-master\PVPNetConnect\obj\PubRelease\PVPNetConnect.dll

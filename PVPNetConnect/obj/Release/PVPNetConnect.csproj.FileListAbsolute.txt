@@ -1,0 +1,13 @@
+D:\private project\LegendaryClient-master\LegendaryClient\bin\Release\PVPNetConnect.dll
+D:\private project\LegendaryClient-master\LegendaryClient\bin\Release\PVPNetConnect.pdb
+D:\private project\LegendaryClient-master\PVPNetConnect\obj\Release\PVPNetConnect.csprojResolveAssemblyReference.cache
+D:\private project\LegendaryClient-master\PVPNetConnect\obj\Release\PVPNetConnect.dll
+D:\private project\LegendaryClient-master\PVPNetConnect\obj\Release\PVPNetConnect.pdb
+D:\private project\AncientClient\LegendaryClient\bin\Release\PVPNetConnect.dll
+D:\private project\AncientClient\LegendaryClient\bin\Release\PVPNetConnect.pdb
+D:\private project\AncientClient\PVPNetConnect\obj\Release\PVPNetConnect.dll
+D:\private project\AncientClient\PVPNetConnect\obj\Release\PVPNetConnect.pdb
+D:\private project\LegendaryClient\LegendaryClient\bin\Release\PVPNetConnect.dll
+D:\private project\LegendaryClient\LegendaryClient\bin\Release\PVPNetConnect.pdb
+D:\private project\LegendaryClient\PVPNetConnect\obj\Release\PVPNetConnect.dll
+D:\private project\LegendaryClient\PVPNetConnect\obj\Release\PVPNetConnect.pdb

@@ -1,0 +1,4 @@
+D:\private project\LegendaryClient-master\ReplayHandler\bin\PubRelease\ReplayHandler.exe.config
+D:\private project\LegendaryClient-master\ReplayHandler\bin\PubRelease\ReplayHandler.exe
+D:\private project\LegendaryClient-master\ReplayHandler\obj\PubRelease\ReplayHandler.csprojResolveAssemblyReference.cache
+D:\private project\LegendaryClient-master\ReplayHandler\obj\PubRelease\ReplayHandler.exe

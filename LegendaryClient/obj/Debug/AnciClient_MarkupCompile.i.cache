@@ -1,0 +1,20 @@
+﻿AnciClient
+
+
+winexe
+C#
+.cs
+D:\private project\AncientClient\LegendaryClient\obj\Debug\
+LegendaryClient
+none
+false
+TRACE;DEBUG
+D:\private project\AncientClient\LegendaryClient\App.xaml
+97511407990
+5801698259
+192-406582926
+351806179130
+Controls\ChampionDetailAbility.xaml;Controls\ChatGroup.xaml;Controls\ChatItem.xaml;Controls\GameScouter\ChatScouuterPlayer.xaml;Controls\GameScouter\GameScouterPlayer.xaml;Controls\GameScouter\TinyRuneMasteryData.xaml;Controls\InnerChatItem.xaml;Controls\PlayerStatisticsChampSelect.xaml;Controls\GroupChatPlayer.xaml;Controls\GroupChatItem.xaml;Controls\GameInvitePopup.xaml;Controls\BotControl.xaml;Controls\ChampionAbility.xaml;Controls\ChampionImage.xaml;Controls\InvitePlayer.xaml;Controls\GameSeperator.xaml;Controls\InvitesNotification.xaml;Controls\LeagueItem.xaml;Controls\JoinPublicChat.xaml;Controls\NotificationChatGroup.xaml;Controls\NotifyPlayerPopup.xaml;Controls\SuggestedPlayerItem.xaml;Controls\TeamBuilder\TeamBuilderChoose.xaml;Controls\TeamBuilder\TeamBuilderPlayer.xaml;Controls\TeamControl.xaml;Controls\TradeControl.xaml;GameScouter.xaml;ReplayElements\ChampionItem.xaml;Controls\ChatPlayer.xaml;Controls\CustomLobbyPlayer.xaml;Controls\EndOfGamePlayer.xaml;Controls\HoverOverLabel.xaml;Controls\JoinQueue.xaml;Controls\KudosItem.xaml;Controls\LargeChatPlayer.xaml;Controls\MasteryItem.xaml;Controls\NewsItem.xaml;Controls\NotificationChatPlayer.xaml;Controls\NotificationPopup.xaml;Controls\ProfileChampionImage.xaml;Controls\ProfileSkinImage.xaml;Controls\QueuePopPlayer.xaml;Controls\RecentGameOverview.xaml;Controls\RuneItem.xaml;ReplayElements\PlayerItemReplay.xaml;ReplayElements\SmallChampionItem.xaml;Controls\Steel.xaml;MainWindow.xaml;ReplayElements\ReplayItem.xaml;Windows\ChampionDetailsPage.xaml;Windows\FactionsGameLobbyPage.xaml;Windows\FactionsCreateGamePage.xaml;Windows\FactionsJoinGamePage.xaml;Windows\InGame.xaml;Windows\InvitePlayersPage.xaml;Windows\CreateSummonerNameOverlay.xaml;Windows\NonExistantPage.xaml;Windows\NotificationPage.xaml;Windows\Profile\AggregatedStatsOverlay.xaml;Windows\ChampSelectPage.xaml;Controls\ChampSelectPlayer.xaml;Windows\FriendList.xaml;Windows\ChooseProfilePicturePage.xaml;Windows\CreateCustomGamePage.xaml;Windows\CustomGameListingPage.xaml;Windows\CustomGameLobbyPage.xaml;Windows\EndOfGamePage.xaml;Windows\FakePage.xaml;Windows\LoginPage.xaml;Windows\MainPage.xaml;Windows\MasteriesOverlay.xaml;Windows\MessageOverlay.xaml;Windows\Profile\MatchHistoryOnline.xaml;Windows\Profile\Teams.xaml;Windows\ReplayPage.xaml;Windows\SelectChampOverlay.xaml;Windows\StatusPage.xaml;Windows\PatcherPage.xaml;Windows\PlayPage.xaml;Windows\ProfilePage.xaml;Windows\Profile\Champions.xaml;Windows\Profile\Ingame.xaml;Windows\Profile\Leagues.xaml;Windows\Profile\Masteries.xaml;Windows\Profile\MatchHistory.xaml;Windows\Profile\Overview.xaml;Windows\Profile\Runes.xaml;Windows\Profile\Skins.xaml;Windows\QueuePopOverlay.xaml;Windows\RunesOverlay.xaml;Windows\SelectSummonerSpells.xaml;Windows\SettingsPage.xaml;Windows\ShopPage.xaml;Windows\TeamBuilderPage.xaml;Windows\TeamQueuePage.xaml;Windows\Warning.xaml;Windows\WebsiteOverlayPage.xaml;
+
+True
+
